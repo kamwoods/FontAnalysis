@@ -1,0 +1,5 @@
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\FolderTree\FolderTree\bin\Debug\FolderTree.dll
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\FolderTree\FolderTree\bin\Debug\FolderTree.pdb
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\FolderTree\FolderTree\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\FolderTree\FolderTree\obj\Debug\FolderTree.dll
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\FolderTree\FolderTree\obj\Debug\FolderTree.pdb

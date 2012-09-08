@@ -1,0 +1,12 @@
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\BulkDocAnalyzer\BulkDocAnalyzer\obj\Release\BulkDocAnalyzer.csproj.ResolveComReference.cache
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\BulkDocAnalyzer\BulkDocAnalyzer\bin\Release\BulkDocAnalyzer.exe
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\BulkDocAnalyzer\BulkDocAnalyzer\bin\Release\BulkDocAnalyzer.pdb
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\BulkDocAnalyzer\BulkDocAnalyzer\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\BulkDocAnalyzer\BulkDocAnalyzer\obj\Release\BulkDocAnalyzer.BulkDocAnalyzerForm.resources
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\BulkDocAnalyzer\BulkDocAnalyzer\obj\Release\BulkDocAnalyzer.Properties.Resources.resources
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\BulkDocAnalyzer\BulkDocAnalyzer\obj\Release\BulkDocAnalyzer.csproj.GenerateResource.Cache
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\BulkDocAnalyzer\BulkDocAnalyzer\obj\Release\BulkDocAnalyzer.exe
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\BulkDocAnalyzer\BulkDocAnalyzer\obj\Release\BulkDocAnalyzer.pdb
+C:\Users\kam\Desktop\Dana August\Projects\BulkDocAnalyzer\BulkDocAnalyzer\obj\Release\BulkDocAnalyzer.csproj.ResolveComReference.cache
+C:\Users\kam\Desktop\Dana August\Projects\BulkDocAnalyzer\BulkDocAnalyzer\obj\Release\BulkDocAnalyzer.exe
+C:\Users\kam\Desktop\Dana August\Projects\BulkDocAnalyzer\BulkDocAnalyzer\obj\Release\BulkDocAnalyzer.pdb

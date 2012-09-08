@@ -1,0 +1,11 @@
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\RenderFontText\RenderFontText\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\RenderFontText\RenderFontText\obj\Debug\RenderFontText.FontSelection.resources
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\RenderFontText\RenderFontText\obj\Debug\RenderFontText.FontTextView.resources
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\RenderFontText\RenderFontText\obj\Debug\RenderFontText.Properties.Resources.resources
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\RenderFontText\RenderFontText\obj\Debug\RenderFontText.csproj.GenerateResource.Cache
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\RenderFontText\RenderFontText\obj\Debug\RenderFontText.csproj.ResolveComReference.cache
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\RenderFontText\RenderFontText\obj\Debug\RenderFontText.MainWin.resources
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\RenderFontText\RenderFontText\bin\Debug\RenderFontText.exe
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\RenderFontText\RenderFontText\bin\Debug\RenderFontText.pdb
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\RenderFontText\RenderFontText\obj\Debug\RenderFontText.exe
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\RenderFontText\RenderFontText\obj\Debug\RenderFontText.pdb

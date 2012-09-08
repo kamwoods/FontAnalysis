@@ -1,0 +1,15 @@
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\WordDocAnalyzerAddin\WordDocAnalyzerAddin\bin\Debug\WordDocAnalyzerAddin.dll
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\WordDocAnalyzerAddin\WordDocAnalyzerAddin\bin\Debug\WordDocAnalyzerAddin.pdb
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\WordDocAnalyzerAddin\WordDocAnalyzerAddin\bin\Debug\WordDocAnalyzerAddin.dll.manifest
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\WordDocAnalyzerAddin\WordDocAnalyzerAddin\bin\Debug\WordDocAnalyzerAddin.vsto
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\WordDocAnalyzerAddin\WordDocAnalyzerAddin\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\WordDocAnalyzerAddin\WordDocAnalyzerAddin\obj\Debug\WordDocAnalyzerAddin.DocAnalyzerControl.resources
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\WordDocAnalyzerAddin\WordDocAnalyzerAddin\obj\Debug\WordDocAnalyzerAddin.DocumentAnalyzerForm.resources
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\WordDocAnalyzerAddin\WordDocAnalyzerAddin\obj\Debug\WordDocAnalyzerAddin.DocMarkupForm.resources
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\WordDocAnalyzerAddin\WordDocAnalyzerAddin\obj\Debug\WordDocAnalyzerAddin.Properties.Resources.resources
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\WordDocAnalyzerAddin\WordDocAnalyzerAddin\obj\Debug\WordDocAnalyzerAddin.Ribbon1.resources
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\WordDocAnalyzerAddin\WordDocAnalyzerAddin\obj\Debug\WordDocAnalyzerAddin.csproj.GenerateResource.Cache
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\WordDocAnalyzerAddin\WordDocAnalyzerAddin\obj\Debug\WordDocAnalyzerAddin.dll
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\WordDocAnalyzerAddin\WordDocAnalyzerAddin\obj\Debug\WordDocAnalyzerAddin.pdb
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\WordDocAnalyzerAddin\WordDocAnalyzerAddin\bin\Debug\MapFont.dll
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\WordDocAnalyzerAddin\WordDocAnalyzerAddin\bin\Debug\MapFont.pdb

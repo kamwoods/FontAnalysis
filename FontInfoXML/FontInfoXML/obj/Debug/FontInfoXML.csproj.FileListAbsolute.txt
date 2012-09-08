@@ -1,0 +1,9 @@
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\FontInfoXML\FontInfoXML\bin\Debug\FontInfoXML.exe
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\FontInfoXML\FontInfoXML\bin\Debug\FontInfoXML.pdb
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\FontInfoXML\FontInfoXML\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\FontInfoXML\FontInfoXML\obj\Debug\FontInfoXML.Properties.Resources.resources
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\FontInfoXML\FontInfoXML\obj\Debug\FontInfoXML.csproj.GenerateResource.Cache
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\FontInfoXML\FontInfoXML\obj\Debug\FontInfoXML.exe
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\FontInfoXML\FontInfoXML\obj\Debug\FontInfoXML.pdb
+C:\Users\kam\Desktop\Dana August\Projects\FontInfoXML\FontInfoXML\obj\Debug\FontInfoXML.exe
+C:\Users\kam\Desktop\Dana August\Projects\FontInfoXML\FontInfoXML\obj\Debug\FontInfoXML.pdb

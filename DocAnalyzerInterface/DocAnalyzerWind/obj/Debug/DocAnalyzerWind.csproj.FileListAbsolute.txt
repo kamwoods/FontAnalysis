@@ -1,0 +1,26 @@
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\DocAnalyzerInterface\DocAnalyzerWind\bin\Debug\DocAnalyzerWind.exe
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\DocAnalyzerInterface\DocAnalyzerWind\bin\Debug\DocAnalyzerWind.pdb
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\DocAnalyzerInterface\DocAnalyzerWind\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\DocAnalyzerInterface\DocAnalyzerWind\obj\Debug\Window1.baml
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\DocAnalyzerInterface\DocAnalyzerWind\obj\Debug\Window1.g.cs
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\DocAnalyzerInterface\DocAnalyzerWind\obj\Debug\App.g.cs
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\DocAnalyzerInterface\DocAnalyzerWind\obj\Debug\DocAnalyzerWind_MarkupCompile.cache
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\DocAnalyzerInterface\DocAnalyzerWind\obj\Debug\DocAnalyzerWind.g.resources
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\DocAnalyzerInterface\DocAnalyzerWind\obj\Debug\DocAnalyzerWind.Properties.Resources.resources
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\DocAnalyzerInterface\DocAnalyzerWind\obj\Debug\DocAnalyzerWind.csproj.GenerateResource.Cache
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\DocAnalyzerInterface\DocAnalyzerWind\obj\Debug\DocAnalyzerWind.exe
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\DocAnalyzerInterface\DocAnalyzerWind\obj\Debug\DocAnalyzerWind.pdb
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\DocAnalyzerInterface\DocAnalyzerWind\obj\Debug\DocAnalyzerWind.csproj.ResolveComReference.cache
+C:\Users\kam\Desktop\Dana August\Projects\DocAnalyzerInterface\DocAnalyzerWind\obj\Debug\DocAnalyzerWind.csproj.ResolveComReference.cache
+C:\Users\kam\Desktop\Dana August\Projects\DocAnalyzerInterface\DocAnalyzerWind\obj\Debug\DocAnalyzerWind.exe
+C:\Users\kam\Desktop\Dana August\Projects\DocAnalyzerInterface\DocAnalyzerWind\obj\Debug\DocAnalyzerWind.pdb
+C:\Users\kam\Desktop\Dana August\Projects\DocAnalyzerInterface\DocAnalyzerWind\bin\Debug\DocAnalyzerWind.exe
+C:\Users\kam\Desktop\Dana August\Projects\DocAnalyzerInterface\DocAnalyzerWind\bin\Debug\DocAnalyzerWind.pdb
+C:\Users\kam\Desktop\Dana August\Projects\DocAnalyzerInterface\DocAnalyzerWind\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kam\Desktop\Dana August\Projects\DocAnalyzerInterface\DocAnalyzerWind\obj\Debug\Window1.baml
+C:\Users\kam\Desktop\Dana August\Projects\DocAnalyzerInterface\DocAnalyzerWind\obj\Debug\Window1.g.cs
+C:\Users\kam\Desktop\Dana August\Projects\DocAnalyzerInterface\DocAnalyzerWind\obj\Debug\App.g.cs
+C:\Users\kam\Desktop\Dana August\Projects\DocAnalyzerInterface\DocAnalyzerWind\obj\Debug\DocAnalyzerWind_MarkupCompile.cache
+C:\Users\kam\Desktop\Dana August\Projects\DocAnalyzerInterface\DocAnalyzerWind\obj\Debug\DocAnalyzerWind.g.resources
+C:\Users\kam\Desktop\Dana August\Projects\DocAnalyzerInterface\DocAnalyzerWind\obj\Debug\DocAnalyzerWind.Properties.Resources.resources
+C:\Users\kam\Desktop\Dana August\Projects\DocAnalyzerInterface\DocAnalyzerWind\obj\Debug\DocAnalyzerWind.csproj.GenerateResource.Cache

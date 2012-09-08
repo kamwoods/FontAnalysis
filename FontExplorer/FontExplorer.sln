@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FontExplorer", "FontExplorer\FontExplorer.vcproj", "{C1E83FD4-0AC1-4317-A9AB-C06B402AD6CF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wvExplorer", "wvExplorer\wvExplorer.vcproj", "{46A6D997-6A8A-4E7C-B805-C7BE0AE0518C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1E83FD4-0AC1-4317-A9AB-C06B402AD6CF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C1E83FD4-0AC1-4317-A9AB-C06B402AD6CF}.Debug|Win32.Build.0 = Debug|Win32
+		{C1E83FD4-0AC1-4317-A9AB-C06B402AD6CF}.Release|Win32.ActiveCfg = Release|Win32
+		{C1E83FD4-0AC1-4317-A9AB-C06B402AD6CF}.Release|Win32.Build.0 = Release|Win32
+		{46A6D997-6A8A-4E7C-B805-C7BE0AE0518C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{46A6D997-6A8A-4E7C-B805-C7BE0AE0518C}.Debug|Win32.Build.0 = Debug|Win32
+		{46A6D997-6A8A-4E7C-B805-C7BE0AE0518C}.Release|Win32.ActiveCfg = Release|Win32
+		{46A6D997-6A8A-4E7C-B805-C7BE0AE0518C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

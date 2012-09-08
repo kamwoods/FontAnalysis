@@ -1,0 +1,8 @@
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\LOGFontGetter\LOGFontGetter\bin\Debug\LOGFontGetter.exe
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\LOGFontGetter\LOGFontGetter\bin\Debug\LOGFontGetter.pdb
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\LOGFontGetter\LOGFontGetter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\LOGFontGetter\LOGFontGetter\obj\Debug\LOGFontGetter.Form1.resources
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\LOGFontGetter\LOGFontGetter\obj\Debug\LOGFontGetter.Properties.Resources.resources
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\LOGFontGetter\LOGFontGetter\obj\Debug\LOGFontGetter.csproj.GenerateResource.Cache
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\LOGFontGetter\LOGFontGetter\obj\Debug\LOGFontGetter.exe
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\LOGFontGetter\LOGFontGetter\obj\Debug\LOGFontGetter.pdb

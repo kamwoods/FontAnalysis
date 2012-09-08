@@ -1,0 +1,16 @@
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\WordDocFontAnalyzer\WordDocFontAnalyzer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\WordDocFontAnalyzer\WordDocFontAnalyzer\obj\Debug\Window1.baml
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\WordDocFontAnalyzer\WordDocFontAnalyzer\obj\Debug\Window1.g.cs
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\WordDocFontAnalyzer\WordDocFontAnalyzer\obj\Debug\App.g.cs
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\WordDocFontAnalyzer\WordDocFontAnalyzer\obj\Debug\WordDocFontAnalyzer_MarkupCompile.cache
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\WordDocFontAnalyzer\WordDocFontAnalyzer\obj\Debug\WordDocFontAnalyzer.g.resources
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\WordDocFontAnalyzer\WordDocFontAnalyzer\obj\Debug\WordDocFontAnalyzer.Properties.Resources.resources
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\WordDocFontAnalyzer\WordDocFontAnalyzer\obj\Debug\WordDocFontAnalyzer.csproj.GenerateResource.Cache
+C:\Users\kam\Desktop\Dana August\Projects\WordDocFontAnalyzer\WordDocFontAnalyzer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kam\Desktop\Dana August\Projects\WordDocFontAnalyzer\WordDocFontAnalyzer\obj\Debug\Window1.baml
+C:\Users\kam\Desktop\Dana August\Projects\WordDocFontAnalyzer\WordDocFontAnalyzer\obj\Debug\Window1.g.cs
+C:\Users\kam\Desktop\Dana August\Projects\WordDocFontAnalyzer\WordDocFontAnalyzer\obj\Debug\App.g.cs
+C:\Users\kam\Desktop\Dana August\Projects\WordDocFontAnalyzer\WordDocFontAnalyzer\obj\Debug\WordDocFontAnalyzer_MarkupCompile.cache
+C:\Users\kam\Desktop\Dana August\Projects\WordDocFontAnalyzer\WordDocFontAnalyzer\obj\Debug\WordDocFontAnalyzer.g.resources
+C:\Users\kam\Desktop\Dana August\Projects\WordDocFontAnalyzer\WordDocFontAnalyzer\obj\Debug\WordDocFontAnalyzer.Properties.Resources.resources
+C:\Users\kam\Desktop\Dana August\Projects\WordDocFontAnalyzer\WordDocFontAnalyzer\obj\Debug\WordDocFontAnalyzer.csproj.GenerateResource.Cache

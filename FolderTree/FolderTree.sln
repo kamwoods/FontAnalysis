@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FolderTree", "FolderTree\FolderTree.csproj", "{8E1042A5-238E-4B6B-920C-7F026C386C9A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{56042A5F-9A08-4497-8838-514E76D0CF40}"
+	ProjectSection(SolutionItems) = preProject
+		FolderTree.vsmdi = FolderTree.vsmdi
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHarness", "TestHarness\TestHarness.csproj", "{F7845DE5-E675-4E07-8D28-91CCA47FD11F}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = FolderTree.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E1042A5-238E-4B6B-920C-7F026C386C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E1042A5-238E-4B6B-920C-7F026C386C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E1042A5-238E-4B6B-920C-7F026C386C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E1042A5-238E-4B6B-920C-7F026C386C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7845DE5-E675-4E07-8D28-91CCA47FD11F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7845DE5-E675-4E07-8D28-91CCA47FD11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7845DE5-E675-4E07-8D28-91CCA47FD11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7845DE5-E675-4E07-8D28-91CCA47FD11F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

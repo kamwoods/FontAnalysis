@@ -1,0 +1,24 @@
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\DocAnalyzerInterface\DocAnalyzerInterface\bin\Debug\DocAnalyzerInterface.exe
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\DocAnalyzerInterface\DocAnalyzerInterface\bin\Debug\DocAnalyzerInterface.pdb
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\DocAnalyzerInterface\DocAnalyzerInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\DocAnalyzerInterface\DocAnalyzerInterface\obj\Debug\App.g.cs
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\DocAnalyzerInterface\DocAnalyzerInterface\obj\Debug\DocAnalyzerInterface_MarkupCompile.cache
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\DocAnalyzerInterface\DocAnalyzerInterface\obj\Debug\DocAnalyzerInterface.g.resources
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\DocAnalyzerInterface\DocAnalyzerInterface\obj\Debug\DocAnalyzerInterface.Properties.Resources.resources
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\DocAnalyzerInterface\DocAnalyzerInterface\obj\Debug\DocAnalyzerInterface.csproj.GenerateResource.Cache
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\DocAnalyzerInterface\DocAnalyzerInterface\obj\Debug\DocAnalyzerInterface.exe
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\DocAnalyzerInterface\DocAnalyzerInterface\obj\Debug\DocAnalyzerInterface.pdb
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\DocAnalyzerInterface\DocAnalyzerInterface\obj\Debug\FontAnalyzerWindow.baml
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\DocAnalyzerInterface\DocAnalyzerInterface\obj\Debug\FontAnalyzerWindow.g.cs
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\DocAnalyzerInterface\DocAnalyzerInterface\obj\Debug\DocAnalyzerInterface.csproj.ResolveComReference.cache
+C:\Users\kam\Desktop\Dana August\Projects\DocAnalyzerInterface\DocAnalyzerInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kam\Desktop\Dana August\Projects\DocAnalyzerInterface\DocAnalyzerInterface\obj\Debug\DocAnalyzerInterface.csproj.ResolveComReference.cache
+C:\Users\kam\Desktop\Dana August\Projects\DocAnalyzerInterface\DocAnalyzerInterface\obj\Debug\FontAnalyzerWindow.baml
+C:\Users\kam\Desktop\Dana August\Projects\DocAnalyzerInterface\DocAnalyzerInterface\obj\Debug\FontAnalyzerWindow.g.cs
+C:\Users\kam\Desktop\Dana August\Projects\DocAnalyzerInterface\DocAnalyzerInterface\obj\Debug\App.g.cs
+C:\Users\kam\Desktop\Dana August\Projects\DocAnalyzerInterface\DocAnalyzerInterface\obj\Debug\DocAnalyzerInterface_MarkupCompile.cache
+C:\Users\kam\Desktop\Dana August\Projects\DocAnalyzerInterface\DocAnalyzerInterface\obj\Debug\DocAnalyzerInterface.g.resources
+C:\Users\kam\Desktop\Dana August\Projects\DocAnalyzerInterface\DocAnalyzerInterface\obj\Debug\DocAnalyzerInterface.Properties.Resources.resources
+C:\Users\kam\Desktop\Dana August\Projects\DocAnalyzerInterface\DocAnalyzerInterface\obj\Debug\DocAnalyzerInterface.csproj.GenerateResource.Cache
+C:\Users\kam\Desktop\Dana August\Projects\DocAnalyzerInterface\DocAnalyzerInterface\obj\Debug\DocAnalyzerInterface.exe
+C:\Users\kam\Desktop\Dana August\Projects\DocAnalyzerInterface\DocAnalyzerInterface\obj\Debug\DocAnalyzerInterface.pdb

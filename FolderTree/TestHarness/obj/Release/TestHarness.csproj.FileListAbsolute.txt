@@ -1,0 +1,10 @@
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\FolderTree\TestHarness\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\FolderTree\TestHarness\obj\Release\TestHarness.Form1.resources
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\FolderTree\TestHarness\obj\Release\TestHarness.Properties.Resources.resources
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\FolderTree\TestHarness\obj\Release\TestHarness.csproj.GenerateResource.Cache
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\FolderTree\TestHarness\bin\Release\TestHarness.exe
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\FolderTree\TestHarness\bin\Release\TestHarness.pdb
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\FolderTree\TestHarness\bin\Release\FolderTree.dll
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\FolderTree\TestHarness\bin\Release\FolderTree.pdb
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\FolderTree\TestHarness\obj\Release\TestHarness.exe
+C:\Documents and Settings\Egil\My Documents\Visual Studio 2008\Projects\FolderTree\TestHarness\obj\Release\TestHarness.pdb
